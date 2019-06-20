@@ -1,12 +1,11 @@
 package gitFiles;
 
-public class FirtsGitProgram {
+public class secondGitProgram {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("Git Learning");
-		
+		System.out.println("secondGitProgram -------");
 
 	}
 
